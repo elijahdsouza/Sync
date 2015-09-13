@@ -1,0 +1,10 @@
+C:\Proj\Sync\Sync\bin\Debug\Sync.exe
+C:\Proj\Sync\Sync\bin\Debug\Sync.pdb
+C:\Proj\Sync\Sync\bin\Debug\HibernatingRhinos.Profiler.Appender.dll
+C:\Proj\Sync\Sync\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Proj\Sync\Sync\bin\Debug\Newtonsoft.Json.dll
+C:\Proj\Sync\Sync\bin\Debug\WebActivatorEx.dll
+C:\Proj\Sync\Sync\bin\Debug\Newtonsoft.Json.xml
+C:\Proj\Sync\Sync\obj\Debug\Sync.csprojResolveAssemblyReference.cache
+C:\Proj\Sync\Sync\obj\Debug\Sync.exe
+C:\Proj\Sync\Sync\obj\Debug\Sync.pdb
